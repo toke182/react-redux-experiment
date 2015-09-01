@@ -1,0 +1,43 @@
+{
+		
+		title: "title",
+
+  		categoryId: "1",
+
+  		locationId: "2",
+
+  		postcode: "rh6 8ep",
+
+  		visibleOnMap: true,
+
+  		area: "horley",
+
+  		termsAgreed: true,
+
+	  	description: "description",
+
+	  	contactEmail: "hello@hello.com",
+
+		contactTelephone: "123",
+
+	  	contactUrl: "http://www.google.com",
+
+	  	useEmail: true,
+
+	  	usePhone: true,
+
+	  	useUrl: true,
+
+	  	mainImageId: "1",
+
+	  	imageIds: [1, 2, 3],
+
+	  	youtubeLink: "http://www.google.com",
+
+	  	websiteUrl: "http://www.google.com",
+
+	  	attributes: {},
+
+	  	features: {}
+
+	  }
